@@ -38,6 +38,9 @@
         "iniparser": "^1.0.5"
     },
     "keywords": [
-        "slushgenerator"
+        "slushgenerator",
+        "polymer",
+        "webcomponent",
+        "seed"
     ]
 }
