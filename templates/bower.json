@@ -9,6 +9,7 @@
     "web-component",
     "web-components",
     "polymer",
+    "<%= elementName %>",
     "seed"
   ],
   "main": "<%= elementName %>.html",
