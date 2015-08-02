@@ -39,8 +39,13 @@
     },
     "keywords": [
         "slushgenerator",
+        "slush",
+        "generator",
+        "polymerelement",
         "polymer",
+        "element",
         "webcomponent",
+        "webcomponents",
         "seed"
     ]
 }
