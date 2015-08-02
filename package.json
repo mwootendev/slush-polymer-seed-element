@@ -1,7 +1,7 @@
 {
     "name": "slush-polymer-seed-element",
     "description": "A slush generator for a Polymer element project based on PolymerElements/seed-element.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "homepage": "https://github.com/mwootendev/slush-polymer-seed-element",
     "author": {
         "name": "Michael Wooten",
