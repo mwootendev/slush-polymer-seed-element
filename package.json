@@ -1,0 +1,43 @@
+{
+    "name": "slush-polymer-seed-element",
+    "description": "A slush generator for a Polymer element project based on PolymerElements/seed-element.",
+    "version": "0.1.0",
+    "homepage": "https://github.com/mwootendev/slush-polymer-seed-element",
+    "author": {
+        "name": "Michael Wooten",
+        "email": "mwootendev@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mwootendev/slush-polymer-seed-element.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mwootendev/slush-polymer-seed-element/issues"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/mwootendev/slush-polymer-seed-element/blob/master/LICENSE"
+    }],
+    "main": "slushfile.js",
+    "engines": {
+        "node": ">= 0.10.26",
+        "npm": ">=1.4.3"
+    },
+    "scripts": {
+        "test": "echo \"No tests\""
+    },
+    "dependencies": {
+        "slush": ">=1.0.0",
+        "gulp": "^3.6.2",
+        "gulp-template": "^0.1.1",
+        "gulp-install": "^0.1.4",
+        "gulp-conflict": "^0.1.1",
+        "gulp-rename": "^1.2.0",
+        "underscore.string": "^2.3.3",
+        "inquirer": "^0.8.0",
+        "iniparser": "^1.0.5"
+    },
+    "keywords": [
+        "slushgenerator"
+    ]
+}
